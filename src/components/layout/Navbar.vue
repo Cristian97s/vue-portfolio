@@ -14,10 +14,10 @@ window.addEventListener('scroll', () => {
     <div class="container">
       <a href="#hero" class="logo">Inicio</a>
       <nav>
-        <a href="#skills">Tartarus</a>
-        <a href="#projects">Personajes</a>
-        <a href="#experience">Soundtrack</a>
-        <a href="#contact">Galería</a>
+        <a href="#skills">Habilidades</a>
+        <a href="#projects">Proyectos</a>
+        <a href="#experience">Experiencia</a>
+        <a href="#contact">Contacto</a>
       </nav>
     </div>
   </header>

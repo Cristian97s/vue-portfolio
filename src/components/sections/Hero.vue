@@ -9,12 +9,12 @@
       <div class="hero-left">
         <span class="year">2026</span>
         <h1 class="title">
-          Cuando el reloj marca la medianoche… <br/> comienza la Hora Oscura.
+          Hola soy Cristian <br/> Desarrollador Full Stack.
         </h1>
 
         <div class="buttons">
-          <a href="#" class="btn-primary">Personajes</a>
-          <a href="#" class="btn-link">Soundtrack</a>
+          <a href="#" class="btn-primary">Proyectos</a>
+          <a href="#" class="btn-link">GitHub</a>
         </div>
       </div>
 
@@ -53,7 +53,7 @@
   align-items: center;
   justify-content: space-between;
   height: 100%;
-  padding: 0 80px;
+  padding: 0 180px;
 }
 
 .hero-left {
