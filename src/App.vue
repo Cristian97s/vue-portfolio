@@ -12,8 +12,8 @@ import Contact from './components/sections/Contact.vue';
   <main>
     <Hero />
     <Skills />
-    <Experience />
     <Projects />
+    <Experience />
     <Contact />
   </main>
 </template>
