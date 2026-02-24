@@ -53,7 +53,7 @@
   align-items: center;
   justify-content: space-between;
   height: 100%;
-  padding: 0 180px;
+  padding: 0 80px;
 }
 
 .hero-left {
