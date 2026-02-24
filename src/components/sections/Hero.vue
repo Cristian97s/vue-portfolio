@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <section class="hero">
+  <section id="hero">
 
     <div class="hero-content">
 
@@ -19,7 +19,7 @@
       </div>
 
       <div class="hero-right">
-        <img src="../../assets/makoto-sleep-Photoroom.png" alt="Cristian">
+        <img src="../../assets/makoto-sleep.png" alt="Cristian">
       </div>
 
     </div>
@@ -28,7 +28,7 @@
 </template>
 
 <style scoped>
-.hero {
+#hero {
   height: 100vh;
   position: relative;
   overflow: hidden;
@@ -36,7 +36,7 @@
 }
 
 /* Fondo dividido diagonal */
-.hero::before {
+#hero::before {
   content: "";
   position: absolute;
   width: 100%;

@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <section class="skills">
+    <section id="skills">
         <div class="container">
             <h2 class="section-title">Mi Arsenal Técnico</h2>
             <p class="section-subtitle">Herramientas que utilizo para construir experiencias digitales detalladas y
@@ -43,7 +43,7 @@
 </template>
 
 <style scoped>
-.skills{
+#skills{
     padding: 60px 20px;
     font-family: 'Segoe UI', sans-serif;
     background-color: #0E0F1C;
@@ -98,5 +98,9 @@
     border-radius: 20px;
     font-size: 0.9rem;
     font-weight: 500;
+}
+
+h3 {
+    color: #E7E7E7;
 }
 </style>
