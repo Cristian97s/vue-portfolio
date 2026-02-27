@@ -40,7 +40,7 @@ const about = ref({
           <div class="photo-wrapper">
             <!-- Cambia esta URL por tu foto real (subida a GitHub, Cloudinary, ImgBB, etc.) -->
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+              src="/src/assets/1762495282728.png"
               alt="Javier - Desarrollador Frontend"
               class="profile-photo"
             />
